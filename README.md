@@ -1,5 +1,7 @@
 # $LEGAL — Legal Coin
 
+CA: 7D9BzwHjvTLgfWAMawDiv2vxemQNszkywf492W2qpump
+
 <img width="1024" height="1024" alt="Gemini_Generated_Image_g02zrgg02zrgg02z" src="https://github.com/user-attachments/assets/6c4f2365-d722-4269-b46a-2b6209f621c5" />
 
 **What is $LEGAL**
