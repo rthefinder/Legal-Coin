@@ -1,5 +1,7 @@
 # $LEGAL — Legal Coin
 
+<img width="1500" height="500" alt="legalbanner" src="https://github.com/user-attachments/assets/b8bf1dc0-0435-41ab-bc64-93b777872db9" />
+
 **What is $LEGAL**
 
 $LEGAL is a security-first memecoin launchpad and verification standard built for Pump.fun-compatible token launches on Solana. It provides a strict, auditable launch flow that prevents rugpulls, bundles, dev-snipes, hidden mints, and supply manipulation.
@@ -17,6 +19,8 @@ What $LEGAL is not:
 - Not an investment platform
 - Not a custody or managed-liquidity solution
 
+<img width="602" height="997" alt="Capture d’écran 2026-01-02 à 14 59 29" src="https://github.com/user-attachments/assets/781f28fd-8fb4-461e-a5e5-77f388f71940" />
+
 Directory layout
 
 - `/apps/web` — Next.js frontend (TypeScript, Tailwind)
@@ -28,6 +32,8 @@ Directory layout
 - `/infra` — Local dev tooling (Docker files)
 - `/docs` — Architecture and security docs
 - `/.github/workflows` — CI pipelines
+
+<img width="917" height="845" alt="Capture d’écran 2026-01-02 à 14 56 12" src="https://github.com/user-attachments/assets/018866bd-37a7-46a6-bdd2-fd5a817d45f1" />
 
 Quick commands
 
