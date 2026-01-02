@@ -1,6 +1,6 @@
 # $LEGAL — Legal Coin
 
-<img width="1500" height="500" alt="legalbanner" src="https://github.com/user-attachments/assets/b8bf1dc0-0435-41ab-bc64-93b777872db9" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_g02zrgg02zrgg02z" src="https://github.com/user-attachments/assets/6c4f2365-d722-4269-b46a-2b6209f621c5" />
 
 **What is $LEGAL**
 
