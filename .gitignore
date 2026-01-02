@@ -1,0 +1,14 @@
+node_modules/
+target/
+dist/
+.next/
+coverage/
+*.log
+/*.key
+/*.pem
+/.env
+/.env.local
+Anchor.toml
+Anchor.lock
+/.vscode/
+/*.tmp

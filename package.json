@@ -1,0 +1,23 @@
+{
+  "name": "legal-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "programs/*",
+    "tests"
+  ],
+  "scripts": {
+    "bootstrap": "pnpm install",
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "test": "pnpm -w -r test"
+  },
+  "devDependencies": {
+    "turbo": "^1.10.12",
+    "pnpm": "^8.0.0"
+  }
+}
